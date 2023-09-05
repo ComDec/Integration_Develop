@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="5" time="0.074" timestamp="2023-09-05T12:47:48.636434" hostname="dp"><testcase classname="scripts.test_basic" name="test_greater" time="0.001"><failure message="assert 100 &gt; 100">#x1B[94mdef#x1B[39;49;00m #x1B[92mtest_greater#x1B[39;49;00m():#x1B[90m#x1B[39;49;00m
+       num = #x1B[94m100#x1B[39;49;00m#x1B[90m#x1B[39;49;00m
+&gt;      #x1B[94massert#x1B[39;49;00m num &gt; #x1B[94m100#x1B[39;49;00m#x1B[90m#x1B[39;49;00m
+#x1B[1m#x1B[31mE      assert 100 &gt; 100#x1B[0m
+
+#x1B[1m#x1B[31m../scripts/test_basic.py#x1B[0m:5: AssertionError</failure></testcase><testcase classname="scripts.test_basic" name="test_greater_equal" time="0.000" /><testcase classname="scripts.test_basic" name="test_less" time="0.000" /><testcase classname="scripts.test_basic" name="test_group1" time="0.000" /><testcase classname="scripts.test_basic" name="test_group2" time="0.000" /></testsuite></testsuites>
