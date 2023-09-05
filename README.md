@@ -25,6 +25,8 @@ Cheat Sheet
 
 该仓库提供了Handbook以供学习。
 
+### pyproject.toml
+
 ### Pre-commit
 
 Cheat Sheet
@@ -36,3 +38,7 @@ Cheat Sheet
 ## After commit
 
 ### CI/CD
+
+CI/CD 是一种通过在应用开发阶段引入自动化来频繁向客户交付应用的方法。CI/CD 的核心概念是持续集成、持续交付和持续部署。
+
+https://img-blog.csdnimg.cn/img_convert/d1f6ccae8cc21c4ddf9cd1d1e481bae3.png

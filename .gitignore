@@ -416,3 +416,4 @@ fake_data
 .ignored
 
 **.pytest_cache
+**.mypy_cache
